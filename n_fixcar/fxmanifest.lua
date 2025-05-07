@@ -15,9 +15,6 @@ client_scripts {
 
 server_script 'server.lua'
 
-escrow_ignore '*.lua'
-
 dependencies {
     'ox_lib'
 }
-dependency '/assetpacks'
